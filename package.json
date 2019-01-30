@@ -2,18 +2,14 @@
   "name": "fyp-test",
   "version": "1.0.0",
   "description": "This file acts both as a test for the GitHub app webhooks and prototyping the benchmarking for the\r client application.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/inglec/fyp-test.git"
-  },
-  "author": "Ciaran Ingle",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/inglec/fyp-test/issues"
-  },
-  "homepage": "https://github.com/inglec/fyp-test#readme"
+  "devDependencies": {
+    "jest": "^24.0.0",
+    "lodash": "^4.17.11"
+  }
 }
