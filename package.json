@@ -1,15 +1,5 @@
 {
   "name": "fyp-test",
   "version": "1.0.0",
-  "description": "This file acts both as a test for the GitHub app webhooks and prototyping the benchmarking for the\r client application.",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^24.0.0",
-    "lodash": "^4.17.11"
-  }
+  "description": "This file acts both as a test for the GitHub app webhooks and prototyping the benchmarking for the\r client application."
 }
