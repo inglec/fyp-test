@@ -4,5 +4,13 @@
   "description": "This file acts both as a test for the GitHub app webhooks and prototyping the benchmarking for the\r client application.",
   "dependencies": {
     "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.2",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  },
+  "scripts": {
+    "lint": "eslint src"
   }
 }
