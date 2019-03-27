@@ -1,6 +1,6 @@
 const { chain, difference } = require('lodash');
 
-const { getAllStudents } = require('./lodash');
+const { getAllStudents } = require('./native');
 
 const getPresentStudents = attendance => (
   chain(attendance)
