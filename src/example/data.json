@@ -1,0 +1,24 @@
+{
+  "teachers": {
+    "mary": {
+      "students": ["travis", "liam", "marisha", "sam"]
+    },
+    "matthew": {
+      "students": ["laura", "ashley", "liam", "sam"]
+    },
+    "chris": {
+      "students": ["marisha", "taliesin"]
+    }
+  },
+  "attendance": {
+    "mary": {
+      "students": ["travis", "liam", "marisha", "sam"]
+    },
+    "matthew": {
+      "students": ["laura"]
+    },
+    "chris": {
+      "students": ["taliesin"]
+    }
+  }
+}
